@@ -2,8 +2,6 @@
 """
     nereid_passbook.py
 
-    :copyright: (c) 2015 by Openlabs Technologies & Consulting (P) Limited
-    :license: BSD, see LICENSE for more details.
 """
 import dateutil.parser
 from uuid import uuid4
