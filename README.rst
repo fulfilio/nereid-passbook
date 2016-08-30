@@ -69,7 +69,7 @@ your OS package manager. For example, in Ubuntu::
 
 Once M2Crypto is installed, the module can be installed using pip::
 
-    pip install openlabs_nereid_passbook
+    pip install fio_nereid_passbook
 
 Or download the module source and then run::
 
@@ -108,12 +108,12 @@ Implementations
 Authors and Contributors
 ------------------------
 
-This module was built at `Openlabs <http://www.openlabs.co.in>`_. 
+This module was built at `Fulfil.IO <http://www.fulfil.io>`_. 
 
 Professional Support
 --------------------
 
-This module is professionally supported by `Openlabs <http://www.openlabs.co.in>`_.
+This module is professionally supported by `Fulfil.IO <http://www.fulfil.io>`_.
 If you are looking for on-site teaching or consulting support, contact our
-`sales <mailto:sales@openlabs.co.in>`_ and `support
-<mailto:support@openlabs.co.in>`_ teams.
+`sales <mailto:sales@fulfil.io>`_ and `support
+<mailto:support@fulfil.io>`_ teams.
